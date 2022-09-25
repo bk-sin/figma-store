@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "Whyte";
+  font-weight: 400;
+  src: url("//cdn.shopify.com/s/files/1/0576/8364/0503/t/4/assets/Whyte-Regular.static.otf?v=31945448194616844191658098331"),
+    url("//cdn.shopify.com/s/files/1/0576/8364/0503/t/4/assets/Whyte-Regular.static.woff?v=40818604405809657311658098331"),
+    url("//cdn.shopify.com/s/files/1/0576/8364/0503/t/4/assets/Whyte-Regular.static.woff2?v=70021618913699351658098331");
+}
+
+@font-face {
+  font-family: "Whyte";
+  font-weight: 700;
+  src: url("//cdn.shopify.com/s/files/1/0576/8364/0503/t/4/assets/Whyte-Bold.static.otf?v=128905595683774484771658098331"),
+    url("//cdn.shopify.com/s/files/1/0576/8364/0503/t/4/assets/Whyte-Bold.static.woff?v=30449694129674053801658098331"),
+    url("//cdn.shopify.com/s/files/1/0576/8364/0503/t/4/assets/Whyte-Bold.static.woff2?v=79984086896217569151658098331");
+}
+
+@font-face {
+  font-family: "Whyte Inktrap";
+  font-weight: 700;
+  src: url("//cdn.shopify.com/s/files/1/0576/8364/0503/t/4/assets/WhyteInktrap-Bold.static.otf?v=14948104138520166731658098331"),
+    url("//cdn.shopify.com/s/files/1/0576/8364/0503/t/4/assets/WhyteInktrap-Bold.static.woff?v=5655198296627958361658098331"),
+    url("//cdn.shopify.com/s/files/1/0576/8364/0503/t/4/assets/WhyteInktrap-Bold.static.woff2?v=80625025671305838431658098331");
+}
